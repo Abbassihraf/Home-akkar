@@ -14,4 +14,4 @@ Développer une interface utilisateur web dynamique (niveau 1)
 # Livrables
 Site Web responsive, fonctionnel 
 
-hébergé : https://youweb.netlify.com/
+hébergé : 
